@@ -43,4 +43,7 @@ A través del análisis de importancia de variables, se determinó:
 3. Ejecuta el notebook en Google Colab para replicar los resultados.
 
 ---
+## ✒️ Autor
+* **Fernando Contreras Albarrán,** - [GitHub](https://github.com/Fernando99ing)
+---
 *Proyecto desarrollado como parte del Desafío Telecom X - 2026*
